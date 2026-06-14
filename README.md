@@ -1,4 +1,4 @@
-# Sift Nexis Internship: Project-3-Natural-Language-Processing
+# Soft Nexis Internship: Project-3-Natural-Language-Processing
 **TF-IDF and Applications of Sentiment Analysis**
 
 TF-IDF (Term Frequency–Inverse Document Frequency) is a technique used in Natural Language Processing (NLP) to determine how important a word is within a document compared to a collection of documents. It helps computers identify the most meaningful words while reducing the importance of very common words such as "the," "is," and "and."
